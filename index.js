@@ -1,13 +1,13 @@
 const fn = () => {
-    const miString = "soy un string!"
-    let b = miString + "muy feliz"
+    const miString = "soy Fernando!"
+    let b = miString + "programando muy feliz"
     console.log(b)
 }
 
 fn()
 
 const clickeado = () => {
-    let a = "chanchito feliz"
+    let a = "No se si podre programar algun dia"
 
     console.log(a)
 }
